@@ -1,4 +1,4 @@
-# fare_prediction
+# [fare_prediction](https://github.com/rogerfvieira/fare_prediction/blob/main/fare_prediction(linear_regression).ipynb)
 
 This notebook contains analysis on the taxi cab trips for new york city , a publicly available dataset. The objective is to analyze the data and create a model that can predict fare prices based on selected features. This is to be done using BigQuery and BigqueryML. Down below is the notebook containing the steps via the BQ API using python.
 
